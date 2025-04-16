@@ -1,0 +1,30 @@
+
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #788e63f4;
+  }
+
+  .photo {
+    height: 72px;
+    width: 220px;
+  }
+  
+  .navbar-logo a {
+    display: inline-block;
+    width: 200px;
+    height: 50px;
+    margin: 0;
+  }
+
+  .navbar-link a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1rem;
+    padding: 0px 40px;
+  }
+  
+  
+  
